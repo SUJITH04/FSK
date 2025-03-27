@@ -1,7 +1,7 @@
 ### EXPT NO 2 : SIMULATION OF AMPLITUDE SHIFT KEYING
 ### AIM:
  To implement ASK using MATLAB.
- ###SOFTWARE REQUIRED: MATLAB
+###SOFTWARE REQUIRED: MATLAB
  ### PROGRAM
 
  clc; clear all; close all; fc=input('Enter the freq of Sine Wave carrier:'); fp=input('Enter the
